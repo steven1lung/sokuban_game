@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/character.png</file>
+        <file>img/egg.png</file>
+        <file>img/AAAA.png</file>
+        <file>img/AB.png</file>
+        <file>img/wall.png</file>
+        <file>img/background.png</file>
+        <file>img/destination.png</file>
+        <file>img/partyparrot.gif</file>
+        <file>img/bobrossparrot.gif</file>
+        <file>img/hasake.gif</file>
+        <file>img/midwind.gif</file>
+        <file>img/slipper.png</file>
+        <file>sound/siu.mp3</file>
+        <file>sound/bmg.mp3</file>
+        <file>sound/menu_bgm.mp3</file>
+        <file>img/bear.gif</file>
+        <file>img/learndarius.gif</file>
+    </qresource>
+</RCC>
